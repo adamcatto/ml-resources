@@ -37,3 +37,5 @@ This is a collection of resources for understanding machine learning topics that
 * [Math Stack Exchange](https://math.stackexchange.com/)
 
 * [POMDP (Partially Observable Markov Decision Process) Site](pomdp.org)
+
+* [Machine Learning Mastery](machinelearningmastery.com)
